@@ -1,10 +1,11 @@
-*.iml/
-.idea/
-Repeat 2.iml
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+*.iml/
+.idea/
+Repeat 2.iml
 
 ### Eclipse ###
 .apt_generated
